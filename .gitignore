@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+ENV/
+
+# Build files
+build/
+dist/
+*.spec
+
+# Secrets / generated files
+passwords.txt
+
+# Local notes
+tree/

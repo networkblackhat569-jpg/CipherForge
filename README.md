@@ -26,6 +26,17 @@
 
 ---
 
+
+## 🔮 Upcoming Features (Planned)
+1. **Graphical User Interface (GUI)** – Friendly interface for non-technical users.
+2. **Bulk Password Generation** – Generate multiple passwords at once.
+3. **Password Strength Meter** – Weak, Medium, Strong, Very Strong ratings.
+4. **Cross-Platform Installer** – Windows `.exe` and mobile support without Termux.
+5. **Custom Character Sets** – Include/exclude letters, numbers, symbols.
+6. **Secure Clipboard Copy** – Copy passwords directly without displaying.
+7. **Integration with Password Managers** – Export to KeePass, Bitwarden.
+
+
 ## 💻 Installation & Usage
 
 ### Linux

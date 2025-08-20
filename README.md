@@ -20,6 +20,14 @@
 ## ⚙ Installation
 
 1. Clone the repository:
-```bash
-git clone https://github.com/yourhandle/passforge.git
+
+# Linux install
+git clone https://github.com/networkblackhat569-jpg/passforge.git
 cd passforge
+python3 passforge.py
+
+# Windows install
+git clone https://github.com/networkblackhat569-jpg/passforge.git
+cd passforge
+python passforge.py
+

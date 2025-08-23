@@ -1,0 +1,16 @@
+# Core CLI dependencies
+colorama==0.4.6        # CLI text colors
+pyperclip==1.9.0       # Clipboard support
+
+# GUI support (tkinter is built-in, but extra modern GUI via PyQt5)
+PyQt5==5.15.11         # Optional advanced GUI
+
+# Password strength meter
+zxcvbn==4.4.28         # Strength estimation
+
+# Export / Password manager integration
+pandas==2.2.2          # Handle CSV / Bitwarden export
+
+# Optional: Packaging for Windows/Linux/Mac
+pyinstaller==6.9.0     # Build .exe or standalone app
+

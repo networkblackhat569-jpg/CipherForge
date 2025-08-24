@@ -2,8 +2,7 @@ PassForge/                 # Project root folder
 │
 ├── passforge.py           # Main script (Password Generator)
 │
-├── requirements.txt       # Dependencies list (abhi empty ho sakti hai)
-│
+├── requirements.txt       # Dependencies list 
 ├── README.md              # Project documentation
 │
 ├── LICENSE                # License file (MIT recommended)

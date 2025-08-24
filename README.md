@@ -29,6 +29,8 @@ git clone https://github.com/BlackIceSec/CipherForge.git
 cd CipherForge
 python3 -m venv venv
 source venv/bin/activate   # Linux / macOS
+pip install pyperclip 
+ pip install colorama
 venv\Scripts\activate      # Windows (PowerShell)
 pip install -r requirements.txt
 
